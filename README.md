@@ -13,7 +13,7 @@ UNDER DEVELOPMENT
 
 - actuator
 - gelf
-- logback
+- log4j
 - maven
 - spring-boot
 - starter
@@ -24,7 +24,7 @@ UNDER DEVELOPMENT
 
 ## Direct ancestor
 
-[- gelf,logback](https://github.com/AlexanderLapygin/springboot-war-helloworld#readme)
+[- gelf,log4j](https://github.com/AlexanderLapygin/springboot-war-helloworld#readme)
 
 ---
 
